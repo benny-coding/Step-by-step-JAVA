@@ -57,5 +57,27 @@ public class Controlgate_and_Array {
         } while(w <= 10);
 
 
+        // # 배열은 영어로 Array
+        int level[] = new int[5];
+        int[] level2;
+
+        int level3[] = {1,2,3,4,5};
+        int[] level4 = {1,2,3,4,5};
+
+        int level5[] = new int[6];
+
+        System.out.println(level);
+
+        level[0] = 1;
+        level[1] = 2;
+        level[2] = 3;
+        level[3] = 4;
+        level[4] = 5;
+
+        int highlevel[][]; // 2차원 배열
+        int highlevel2[][] = new int[1][2]; // 2차원 배열 메모리 할당
+        System.out.println(highlevel2);
+
+        int highlevel3[][] = {{1,2,3,4,5},{6,7,8,9,10},{11,12,13,14,15}};
     }
 }
