@@ -6,7 +6,7 @@ public class GousSum {
     public static void main(String[] args) {
         Scanner stdIn = new Scanner(System.in);
 
-        System.out.println()
+        
     }
     /*
     10까지의 합 1+10*5
