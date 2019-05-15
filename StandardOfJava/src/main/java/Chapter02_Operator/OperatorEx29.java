@@ -11,7 +11,7 @@ public class OperatorEx29 {
         System.out.printf("~~p = %d \t%s%n", ~~p, toBinaryString(~~p)); // p의 1의 보수의 1의 보수
         System.out.println();
         System.out.printf(" n  =%d%n", n); // 10진수 출력
-        System.out.printf("~(n-1)=%d%n", ~(n-1)); // 1의 보수 -1(2의 보수 계산법) = 음수로 전횐
+        System.out.printf("~(n-1)=%d%n", ~(n-1)); // 1의 보수 -1(2의 보수 계산법) = 음수로 전
 
     }
 
