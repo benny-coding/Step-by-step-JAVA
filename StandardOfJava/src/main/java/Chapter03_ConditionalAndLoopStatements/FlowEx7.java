@@ -22,6 +22,7 @@ public class FlowEx7 {
                 break;
             case 1: case -2:
                 System.out.println("당신이 이겼습니다.");
+                break;
             case 0:
                 System.out.println("비겼습니다.");
                 break;          // 마지막 문장이므로 break를 사용할 필요가 없다.
