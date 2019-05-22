@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38639d28-5889-4bdd-b048-516c9b966dba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx34.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,91 +30,94 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx16.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx25.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="330">
+              <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx17.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx18.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx26.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+              <caret line="8" column="50" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx19.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx27.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+            <state relative-caret-position="405">
+              <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx20.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx28.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+            <state relative-caret-position="270">
+              <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx21.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx29.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+            <state relative-caret-position="225">
+              <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx22.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx30.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx31.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx32.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="347">
+              <caret line="27" column="61" selection-start-line="27" selection-start-column="61" selection-end-line="27" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx33.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx23.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="54" lean-forward="true" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx24.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx25.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx34.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+            <state relative-caret-position="372">
+              <caret line="50" column="21" lean-forward="true" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -129,15 +138,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Chapter02_Operator/OperatorEx8" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter02_Operator/OperatorEx8.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter02_Operator/OperatorEx9.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter02_Operator/OperatorEx10.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter02_Operator/OperatorEx11.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter02_Operator/OperatorEx12.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter02_Operator/OperatorEx13.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter02_Operator/OperatorEx14.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter02_Operator/OperatorEx15.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter02_Operator/OperatorEx16.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter02_Operator/OperatorEx17.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter02_Operator/OperatorEx18.java" />
@@ -180,6 +180,15 @@
         <option value="$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx23.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx24.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx25.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx26.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx27.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx28.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx29.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx30.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx31.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx32.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx33.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx34.java" />
       </list>
     </option>
   </component>
@@ -194,7 +203,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -248,12 +256,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558449549722" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558527629236" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -269,9 +278,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FlowEx25">
-    <configuration name="FlowEx21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter03_ConditionalAndLoopStatements.FlowEx21" />
+  <component name="RunManager" selected="Application.FlowEx34">
+    <configuration name="FlowEx30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter03_ConditionalAndLoopStatements.FlowEx30" />
       <module name="StandardOfJava.StandardOfJava.main" />
       <extension name="coverage">
         <pattern>
@@ -283,8 +292,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlowEx22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter03_ConditionalAndLoopStatements.FlowEx22" />
+    <configuration name="FlowEx31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter03_ConditionalAndLoopStatements.FlowEx31" />
       <module name="StandardOfJava.StandardOfJava.main" />
       <extension name="coverage">
         <pattern>
@@ -296,8 +305,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlowEx23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter03_ConditionalAndLoopStatements.FlowEx23" />
+    <configuration name="FlowEx32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter03_ConditionalAndLoopStatements.FlowEx32" />
       <module name="StandardOfJava.StandardOfJava.main" />
       <extension name="coverage">
         <pattern>
@@ -309,8 +318,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlowEx24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter03_ConditionalAndLoopStatements.FlowEx24" />
+    <configuration name="FlowEx33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter03_ConditionalAndLoopStatements.FlowEx33" />
       <module name="StandardOfJava.StandardOfJava.main" />
       <extension name="coverage">
         <pattern>
@@ -322,8 +331,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlowEx25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter03_ConditionalAndLoopStatements.FlowEx25" />
+    <configuration name="FlowEx34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter03_ConditionalAndLoopStatements.FlowEx34" />
       <module name="StandardOfJava.StandardOfJava.main" />
       <extension name="coverage">
         <pattern>
@@ -337,11 +346,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FlowEx25" />
-        <item itemvalue="Application.FlowEx24" />
-        <item itemvalue="Application.FlowEx23" />
-        <item itemvalue="Application.FlowEx22" />
-        <item itemvalue="Application.FlowEx21" />
+        <item itemvalue="Application.FlowEx34" />
+        <item itemvalue="Application.FlowEx33" />
+        <item itemvalue="Application.FlowEx32" />
+        <item itemvalue="Application.FlowEx31" />
+        <item itemvalue="Application.FlowEx30" />
       </list>
     </recent_temporary>
   </component>
@@ -369,12 +378,13 @@
       <workItem from="1558098887639" duration="9595000" />
       <workItem from="1558256073361" duration="1631000" />
       <workItem from="1558356440125" duration="2006000" />
-      <workItem from="1558440995583" duration="6870000" />
+      <workItem from="1558440995583" duration="7108000" />
+      <workItem from="1558518827671" duration="5792000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79917000" />
+    <option name="totallyTimeSpent" value="85947000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -387,8 +397,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29756796" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3018598" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -397,16 +408,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" internal_type="SLIDING" order="2" type="SLIDING" visible="true" weight="0.28313252" />
+      <window_info anchor="bottom" id="Run" internal_type="SLIDING" order="2" type="SLIDING" weight="0.28313252" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32907802" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32907802" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49642345" weight="0.386747" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49499285" weight="0.386747" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50214595" side_tool="true" visible="true" weight="0.386747" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49785408" weight="0.32650602" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50500715" side_tool="true" visible="true" weight="0.386747" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49499285" weight="0.32650602" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.49928468" weight="0.32907802" />
       <window_info anchor="bottom" id="Thumbnails" order="14" sideWeight="0.49928468" weight="0.27831325" />
@@ -426,69 +437,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter02_Operator/OperatorEx7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="69" selection-start-line="6" selection-start-column="69" selection-end-line="6" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter02_Operator/OperatorEx8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter02_Operator/OperatorEx9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="97" selection-start-line="7" selection-start-column="97" selection-end-line="7" selection-end-column="97" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter02_Operator/OperatorEx10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="72" selection-start-line="9" selection-start-column="72" selection-end-line="9" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter02_Operator/OperatorEx11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="62" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter02_Operator/OperatorEx12.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="54" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter02_Operator/OperatorEx13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter02_Operator/OperatorEx14.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter02_Operator/OperatorEx15.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter02_Operator/OperatorEx16.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -716,7 +664,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx16.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
@@ -730,7 +678,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx18.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -751,7 +699,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx21.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -765,7 +713,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx23.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="54" lean-forward="true" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+          <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
         </state>
       </provider>
     </entry>
@@ -778,8 +726,74 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx25.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+        <state relative-caret-position="330">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx26.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="50" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx27.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx28.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx29.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx30.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx31.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx32.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="27" column="61" selection-start-line="27" selection-start-column="61" selection-end-line="27" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx33.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx34.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="50" column="21" lean-forward="true" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
         </state>
       </provider>
     </entry>
