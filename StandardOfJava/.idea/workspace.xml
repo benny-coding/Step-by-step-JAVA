@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38639d28-5889-4bdd-b048-516c9b966dba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx17.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,34 +28,34 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx4.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx10.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="65" selection-start-line="21" selection-start-column="65" selection-end-line="21" selection-end-column="65" />
+            <state relative-caret-position="215">
+              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx5.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx11.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx12.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+              <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx6.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx7.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx13.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
               <caret line="23" column="45" lean-forward="true" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
@@ -58,46 +64,46 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx8.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx14.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="101" selection-start-line="25" selection-start-column="101" selection-end-line="25" selection-end-column="101" />
+            <state relative-caret-position="195">
+              <caret line="13" column="57" lean-forward="true" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx9.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx15.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="90" lean-forward="true" selection-start-line="13" selection-start-column="90" selection-end-line="13" selection-end-column="90" />
+            <state relative-caret-position="315">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx16.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx10.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx17.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="26" column="84" selection-start-line="26" selection-start-column="84" selection-end-line="26" selection-end-column="84" />
+            <state relative-caret-position="432">
+              <caret line="32" column="43" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx2.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx16.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="59" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
+            <state relative-caret-position="285">
+              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -132,13 +138,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Chapter02_Operator/OperatorEx28.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter02_Operator/OperatorEx29.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter02_Operator/OperatorEx30.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter02_Operator/OperatorEx31.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter02_Operator/OperatorEx32.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx2.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx3.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx4.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx5.java" />
@@ -183,6 +182,13 @@
         <option value="$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx8.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx9.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx10.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx11.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx12.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx13.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx14.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx15.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx16.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx17.java" />
       </list>
     </option>
   </component>
@@ -197,6 +203,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -228,43 +235,18 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter01_Variable" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="StandardOfJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StandardOfJava" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter02_Operator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="StandardOfJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StandardOfJava" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter03_ConditionalAndLoopStatements" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="StandardOfJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StandardOfJava" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Chapter04_Array" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558879394038" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558965117563" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -280,9 +262,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayEx10">
-    <configuration name="ArrayEx10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter04_Array.ArrayEx10" />
+  <component name="RunManager" selected="Application.ArrayEx17">
+    <configuration name="ArrayEx13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter04_Array.ArrayEx13" />
       <module name="StandardOfJava.StandardOfJava.main" />
       <extension name="coverage">
         <pattern>
@@ -294,8 +276,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayEx6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter04_Array.ArrayEx6" />
+    <configuration name="ArrayEx14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter04_Array.ArrayEx14" />
       <module name="StandardOfJava.StandardOfJava.main" />
       <extension name="coverage">
         <pattern>
@@ -307,8 +289,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayEx7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter04_Array.ArrayEx7" />
+    <configuration name="ArrayEx15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter04_Array.ArrayEx15" />
       <module name="StandardOfJava.StandardOfJava.main" />
       <extension name="coverage">
         <pattern>
@@ -320,8 +302,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayEx8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter04_Array.ArrayEx8" />
+    <configuration name="ArrayEx16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter04_Array.ArrayEx16" />
       <module name="StandardOfJava.StandardOfJava.main" />
       <extension name="coverage">
         <pattern>
@@ -333,8 +315,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayEx9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter04_Array.ArrayEx9" />
+    <configuration name="ArrayEx17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter04_Array.ArrayEx17" />
       <module name="StandardOfJava.StandardOfJava.main" />
       <extension name="coverage">
         <pattern>
@@ -348,11 +330,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayEx10" />
-        <item itemvalue="Application.ArrayEx9" />
-        <item itemvalue="Application.ArrayEx8" />
-        <item itemvalue="Application.ArrayEx7" />
-        <item itemvalue="Application.ArrayEx6" />
+        <item itemvalue="Application.ArrayEx17" />
+        <item itemvalue="Application.ArrayEx16" />
+        <item itemvalue="Application.ArrayEx15" />
+        <item itemvalue="Application.ArrayEx14" />
+        <item itemvalue="Application.ArrayEx13" />
       </list>
     </recent_temporary>
   </component>
@@ -383,12 +365,13 @@
       <workItem from="1558440995583" duration="7108000" />
       <workItem from="1558518827671" duration="9084000" />
       <workItem from="1558612691609" duration="8202000" />
-      <workItem from="1558742742618" duration="11538000" />
+      <workItem from="1558742742618" duration="11683000" />
+      <workItem from="1558952064778" duration="8317000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108979000" />
+    <option name="totallyTimeSpent" value="117441000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -403,7 +386,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3104435" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31473532" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -412,18 +395,18 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" internal_type="SLIDING" order="2" type="SLIDING" visible="true" weight="0.28313252" />
+      <window_info anchor="bottom" id="Run" internal_type="SLIDING" order="2" type="SLIDING" weight="0.28313252" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49928468" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32907802" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32907802" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49213162" visible="true" weight="0.386747" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.490701" visible="true" weight="0.386747" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5078684" side_tool="true" visible="true" weight="0.386747" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.509299" side_tool="true" visible="true" weight="0.386747" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49499285" weight="0.32650602" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.49928468" weight="0.32907802" />
+      <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.4985694" weight="0.32891566" />
       <window_info anchor="bottom" id="Thumbnails" order="14" sideWeight="0.49928468" weight="0.27831325" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -441,62 +424,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter02_Operator/OperatorEx28.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter02_Operator/OperatorEx29.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter02_Operator/OperatorEx30.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="54" selection-start-line="33" selection-start-column="54" selection-end-line="33" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter02_Operator/OperatorEx31.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter02_Operator/OperatorEx32.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter03_ConditionalAndLoopStatements/FlowEx4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -745,6 +672,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="101" selection-start-line="25" selection-start-column="101" selection-end-line="25" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="90" selection-start-line="13" selection-start-column="90" selection-end-line="13" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -766,38 +721,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx6.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx10.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="215">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx7.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx13.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="45" lean-forward="true" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="101" selection-start-line="25" selection-start-column="101" selection-end-line="25" selection-end-column="101" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx9.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx14.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="13" column="90" lean-forward="true" selection-start-line="13" selection-start-column="90" selection-end-line="13" selection-end-column="90" />
+          <caret line="13" column="57" lean-forward="true" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx10.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx15.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="26" column="84" selection-start-line="26" selection-start-column="84" selection-end-line="26" selection-end-column="84" />
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx16.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx16.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="32" column="43" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
         </state>
       </provider>
     </entry>
