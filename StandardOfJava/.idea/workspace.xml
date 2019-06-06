@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38639d28-5889-4bdd-b048-516c9b966dba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Progerammin1/BlockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Progerammin1/CarTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Progerammin1/ProductTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Progerammin1/StaticBloctTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -93,8 +89,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Progerammin1/DocumentTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+            <state relative-caret-position="360">
+              <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -154,7 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx4_1.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx4.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx5.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx6.java" />
@@ -205,6 +200,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Progerammin1/BlockTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Progerammin1/StaticBloctTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Progerammin1/ProductTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Progerammin1/DocumentTest.java" />
       </list>
     </option>
   </component>
@@ -271,7 +267,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559803424084" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559805109995" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -401,12 +397,12 @@
       <workItem from="1559450831004" duration="8382000" />
       <workItem from="1559568472380" duration="2010000" />
       <workItem from="1559658140189" duration="1253000" />
-      <workItem from="1559737563620" duration="7496000" />
+      <workItem from="1559737563620" duration="8573000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="164292000" />
+    <option name="totallyTimeSpent" value="165369000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -419,6 +415,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2653791" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -498,13 +495,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter04_Array/ArrayEx7.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -876,6 +866,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Progerammin1/DocumentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
         </state>
       </provider>
     </entry>
