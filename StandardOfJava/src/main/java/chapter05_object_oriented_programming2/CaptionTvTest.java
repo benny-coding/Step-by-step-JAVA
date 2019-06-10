@@ -1,4 +1,4 @@
-package Chapter05_Object_Oriented_Programming2;
+package chapter05_object_oriented_programming2;
 
 class Tv{
     boolean power;  // 전원상태( on / off )

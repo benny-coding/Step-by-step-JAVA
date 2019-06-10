@@ -1,4 +1,4 @@
-package Chapter05_Object_Oriented_Programming2;
+package chapter05_object_oriented_programming2;
 
 public class SuperTest {
     public static void main(String[] args) {
