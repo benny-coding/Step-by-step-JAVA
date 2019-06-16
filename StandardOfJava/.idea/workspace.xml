@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38639d28-5889-4bdd-b048-516c9b966dba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/PolyArgumentTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/AbstractMethodTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,15 +21,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/BindingTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="69" selection-start-line="7" selection-start-column="69" selection-end-line="7" selection-end-column="69" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/BindingTest2.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -66,17 +57,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/PolyArgumentTest2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
+            <state relative-caret-position="1065">
               <caret line="73" column="29" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/PolyArgumentTest3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="86" column="19" lean-forward="true" selection-start-line="86" selection-start-column="19" selection-end-line="86" selection-end-column="19" />
+            <state relative-caret-position="450">
+              <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/AbstractMethodTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -84,8 +84,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/Vector.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="149" column="22" selection-start-line="149" selection-start-column="22" selection-end-line="149" selection-end-column="22" />
+            <state relative-caret-position="10950">
+              <caret line="782" column="32" selection-start-line="782" selection-start-column="32" selection-end-line="782" selection-end-column="32" />
               <folding>
                 <element signature="e#5550#5551#0" expanded="true" />
                 <element signature="e#5590#5591#0" expanded="true" />
@@ -155,7 +155,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Progerammin1/CardTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Progerammin1/MyMathTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Progerammin1/CallStackTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Progerammin1/CallStackTest2.java" />
@@ -206,6 +205,7 @@
         <option value="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/PolyArgumentTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/PolyArgumentTest2.java" />
         <option value="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/PolyArgumentTest3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/AbstractMethodTest.java" />
       </list>
     </option>
   </component>
@@ -219,6 +219,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -259,20 +261,27 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="chapter05_object_oriented_programming2" type="462c0819:PsiDirectoryNode" />
+              <item name="BindingTest2.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="StandardOfJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StandardOfJava" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter05_object_oriented_programming2" type="462c0819:PsiDirectoryNode" />
               <item name="PolyArgumentTest3.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560604950012" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560695086598" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -413,12 +422,13 @@
       <workItem from="1560420497251" duration="7110000" />
       <workItem from="1560509725501" duration="2432000" />
       <workItem from="1560556067383" duration="127000" />
-      <workItem from="1560602111720" duration="2700000" />
+      <workItem from="1560602111720" duration="3435000" />
+      <workItem from="1560692231622" duration="959000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="201091000" />
+    <option name="totallyTimeSpent" value="202785000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -433,7 +443,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30829757" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3125894" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -448,9 +458,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32907802" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.48712447" visible="true" weight="0.30963856" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.48640916" visible="true" weight="0.30963856" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.51287556" side_tool="true" visible="true" weight="0.30963856" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5135909" side_tool="true" visible="true" weight="0.30963856" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49427754" weight="0.3253012" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.4985694" weight="0.32891566" />
@@ -511,17 +521,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Programming1/CallStackTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
-          <folding>
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#180#181#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Programming1/CallStackTest2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -868,6 +867,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/PolyArgumentTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1065">
+          <caret line="73" column="29" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10950">
+          <caret line="782" column="32" selection-start-line="782" selection-start-column="32" selection-end-line="782" selection-end-column="32" />
+          <folding>
+            <element signature="e#5550#5551#0" expanded="true" />
+            <element signature="e#5590#5591#0" expanded="true" />
+            <element signature="e#5774#5775#0" expanded="true" />
+            <element signature="e#5798#5799#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Programming1/ReferenceParamEx.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -889,30 +908,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/PolyArgumentTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="73" column="29" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/Vector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="149" column="22" selection-start-line="149" selection-start-column="22" selection-end-line="149" selection-end-column="22" />
-          <folding>
-            <element signature="e#5550#5551#0" expanded="true" />
-            <element signature="e#5590#5591#0" expanded="true" />
-            <element signature="e#5774#5775#0" expanded="true" />
-            <element signature="e#5798#5799#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/PolyArgumentTest3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="86" column="19" lean-forward="true" selection-start-line="86" selection-start-column="19" selection-end-line="86" selection-end-column="19" />
+        <state relative-caret-position="450">
+          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/AbstractMethodTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
         </state>
       </provider>
     </entry>
