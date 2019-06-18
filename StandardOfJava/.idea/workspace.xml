@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38639d28-5889-4bdd-b048-516c9b966dba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/AbstractMethodTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/StarCraft.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/AbstractMethodTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/AbstractMethodTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -22,15 +21,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/BindingTest3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/PolyArgumentTest.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -77,7 +67,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/AbstractMethodTest2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
@@ -86,6 +76,15 @@
                 <element signature="e#287#288#0" expanded="true" />
                 <element signature="e#314#315#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/StarCraft.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -164,7 +163,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Progerammin1/CallStackTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Progerammin1/CallStackTest2.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Progerammin1/PrimitiveParamEx.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Progerammin1/ReferenceParamEx.java" />
@@ -215,6 +213,7 @@
         <option value="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/PolyArgumentTest3.java" />
         <option value="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/AbstractMethodTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/AbstractMethodTest2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/StarCraft.java" />
       </list>
     </option>
   </component>
@@ -290,7 +289,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560781955812" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560869526424" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -434,12 +433,12 @@
       <workItem from="1560602111720" duration="3435000" />
       <workItem from="1560692231622" duration="1108000" />
       <workItem from="1560747036961" duration="327000" />
-      <workItem from="1560781346844" duration="748000" />
+      <workItem from="1560781346844" duration="1249000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="204009000" />
+    <option name="totallyTimeSpent" value="204510000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -454,7 +453,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3211731" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3211731" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -469,7 +468,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32907802" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.48497853" visible="true" weight="0.30963856" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.48497853" visible="true" weight="0.30963856" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.51502144" side_tool="true" visible="true" weight="0.30963856" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49427754" weight="0.3253012" />
@@ -532,13 +531,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Programming1/PrimitiveParamEx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Programming1/ReferenceParmEx2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -938,6 +930,13 @@
             <element signature="e#287#288#0" expanded="true" />
             <element signature="e#314#315#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/StarCraft.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
