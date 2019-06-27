@@ -2,40 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38639d28-5889-4bdd-b048-516c9b966dba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/DefaultMethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InnerEx1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/AbstractMethodTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/AbstractMethodTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/AbstractMethodTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/AbstractMethodTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/BindingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/BindingTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/BindingTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/BindingTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/BindingTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/BindingTest3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/CaptionTvTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/CaptionTvTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/CastingTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/CastingTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/CastingTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/CastingTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/DeskTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/DeskTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/DrawShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/DrawShape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/FighterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/FighterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/FinalCardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/FinalCardTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/ImportTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/ImportTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/InstanceofTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InstanceofTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/InterfaceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InterfaceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/InterfaceTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InterfaceTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/InterfaceTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InterfaceTest3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/PackageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/PackageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/ParserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/ParserTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/PointTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/PointTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/PointTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/PointTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/PolyArgumentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/PolyArgumentTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/PolyArgumentTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/PolyArgumentTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/PolyArgumentTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/PolyArgumentTest3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/RepairableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/RepairableTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/SingletonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/SingletonTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/StarCraft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/StarCraft.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/StaticImportEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/StaticImportEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/SuperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/SuperTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/SuperTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/SuperTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/TVCR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/TVCR.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/TimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/TimeTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -54,21 +22,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InterfaceTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-              <folding>
-                <element signature="e#88#89#0" expanded="true" />
-                <element signature="e#115#116#0" expanded="true" />
-                <element signature="e#156#157#0" expanded="true" />
-                <element signature="e#203#204#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InterfaceTest2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
@@ -80,33 +33,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InterfaceTest3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="270">
               <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/DefaultMethodTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="34" column="57" lean-forward="true" selection-start-line="34" selection-start-column="57" selection-end-line="34" selection-end-column="57" />
-              <folding>
-                <element signature="e#373#374#0" expanded="true" />
-                <element signature="e#433#434#0" expanded="true" />
-                <element signature="e#484#485#0" expanded="true" />
-                <element signature="e#520#521#0" expanded="true" />
-                <element signature="e#597#598#0" expanded="true" />
-                <element signature="e#633#634#0" expanded="true" />
-                <element signature="e#693#694#0" expanded="true" />
-                <element signature="e#729#730#0" expanded="true" />
-                <element signature="e#793#794#0" expanded="true" />
-                <element signature="e#829#830#0" expanded="true" />
-                <element signature="e#918#919#0" expanded="true" />
-                <element signature="e#954#955#0" expanded="true" />
-                <element signature="e#1019#1020#0" expanded="true" />
-                <element signature="e#1055#1056#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="330">
+              <caret line="34" column="57" selection-start-line="34" selection-start-column="57" selection-end-line="34" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InnerEx1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -124,7 +70,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/SuperTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -132,7 +78,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/Vector.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11010">
+            <state relative-caret-position="10950">
               <caret line="782" column="32" selection-start-line="782" selection-start-column="32" selection-end-line="782" selection-end-column="32" />
               <folding>
                 <element signature="e#5550#5551#0" expanded="true" />
@@ -205,7 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Progerammin1/FactorialTest2.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Progerammin1/MainTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Progerammin1/PowerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Progerammin1/MyMathTest2.java" />
@@ -256,6 +201,7 @@
         <option value="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/InterfaceTest3.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InterfaceTest3.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/DefaultMethodTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InnerEx1.java" />
       </list>
     </option>
   </component>
@@ -269,6 +215,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -315,14 +263,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561557054717" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561646611806" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -339,9 +285,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DefaultMethodTest">
+  <component name="RunManager" selected="Application.InnerEx1">
     <configuration name="DefaultMethodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter05_object_oriented_programming2.DefaultMethodTest" />
+      <module name="StandardOfJava.StandardOfJava.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter05_object_oriented_programming2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InnerEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter05_object_oriented_programming2.InnerEx1" />
       <module name="StandardOfJava.StandardOfJava.main" />
       <extension name="coverage">
         <pattern>
@@ -379,19 +338,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParserTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter05_object_oriented_programming2.ParserTest" />
-      <module name="StandardOfJava.StandardOfJava.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter05_object_oriented_programming2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="RepairableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter05_object_oriented_programming2.RepairableTest" />
       <module name="StandardOfJava.StandardOfJava.main" />
@@ -407,11 +353,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InnerEx1" />
         <item itemvalue="Application.DefaultMethodTest" />
         <item itemvalue="Application.InterfaceTest2" />
         <item itemvalue="Application.InterfaceTest" />
         <item itemvalue="Application.RepairableTest" />
-        <item itemvalue="Application.ParserTest" />
       </list>
     </recent_temporary>
   </component>
@@ -473,12 +419,13 @@
       <workItem from="1561212481749" duration="376000" />
       <workItem from="1561383001365" duration="1412000" />
       <workItem from="1561460559322" duration="992000" />
-      <workItem from="1561555848441" duration="1204000" />
+      <workItem from="1561555848441" duration="1423000" />
+      <workItem from="1561644765041" duration="1071000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="216362000" />
+    <option name="totallyTimeSpent" value="217652000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -493,7 +440,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35407725" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3590844" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -502,15 +449,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" internal_type="SLIDING" order="2" type="SLIDING" visible="true" weight="0.28674698" />
+      <window_info anchor="bottom" id="Run" internal_type="SLIDING" order="2" type="SLIDING" weight="0.28674698" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49928468" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32907802" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.47782546" weight="0.31084338" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.47639486" visible="true" weight="0.31084338" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5071531" side_tool="true" visible="true" weight="0.31084338" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.52360517" side_tool="true" visible="true" weight="0.31084338" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49284694" weight="0.3253012" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.4985694" weight="0.32891566" />
@@ -571,13 +518,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Programming1/PowerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Programming1/MyMathTest2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
@@ -898,7 +838,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InterfaceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="195">
           <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
           <folding>
             <element signature="e#88#89#0" expanded="true" />
@@ -916,9 +856,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InterfaceTest3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/SuperTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/SuperTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/Vector.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11010">
+        <state relative-caret-position="10950">
           <caret line="782" column="32" selection-start-line="782" selection-start-column="32" selection-end-line="782" selection-end-column="32" />
           <folding>
             <element signature="e#5550#5551#0" expanded="true" />
@@ -950,47 +911,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InterfaceTest3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/SuperTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/SuperTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/DefaultMethodTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="34" column="57" lean-forward="true" selection-start-line="34" selection-start-column="57" selection-end-line="34" selection-end-column="57" />
-          <folding>
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#433#434#0" expanded="true" />
-            <element signature="e#484#485#0" expanded="true" />
-            <element signature="e#520#521#0" expanded="true" />
-            <element signature="e#597#598#0" expanded="true" />
-            <element signature="e#633#634#0" expanded="true" />
-            <element signature="e#693#694#0" expanded="true" />
-            <element signature="e#729#730#0" expanded="true" />
-            <element signature="e#793#794#0" expanded="true" />
-            <element signature="e#829#830#0" expanded="true" />
-            <element signature="e#918#919#0" expanded="true" />
-            <element signature="e#954#955#0" expanded="true" />
-            <element signature="e#1019#1020#0" expanded="true" />
-            <element signature="e#1055#1056#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="330">
+          <caret line="34" column="57" selection-start-line="34" selection-start-column="57" selection-end-line="34" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InnerEx1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
         </state>
       </provider>
     </entry>
