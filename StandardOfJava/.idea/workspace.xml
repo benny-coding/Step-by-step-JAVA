@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38639d28-5889-4bdd-b048-516c9b966dba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/ExceptionEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter01_Variable/ExceptionEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/Chapter07_Exception_Handling.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/ExceptionEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/ExceptionEx1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -21,15 +23,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InnerEx6.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InnerEx7.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -56,20 +49,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/ExceptionEx1.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/Chapter07_Exception_Handling.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+            <state relative-caret-position="30">
+              <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/SuperTest2.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter01_Variable/ExceptionEx1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+            <state relative-caret-position="225">
+              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -159,7 +157,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Progerammin1/CarTest2.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Progerammin1/CarTest3.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Progerammin1/BlockTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Progerammin1/StaticBloctTest.java" />
@@ -210,6 +207,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InnerEx7.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InnerEx8.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/ExceptionEx1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter01_Variable/ExceptionEx1.java" />
       </list>
     </option>
   </component>
@@ -254,6 +252,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter01_Variable" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StandardOfJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StandardOfJava" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Chapter05_object_oriented_programming2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -276,7 +282,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562335406305" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562335992988" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -432,12 +438,12 @@
       <workItem from="1561728661079" duration="1547000" />
       <workItem from="1561938260757" duration="4000" />
       <workItem from="1561991806301" duration="1801000" />
-      <workItem from="1562249692299" duration="1175000" />
+      <workItem from="1562249692299" duration="1358000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="222524000" />
+    <option name="totallyTimeSpent" value="222707000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -530,20 +536,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Programming1/BlockTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Programming1/StaticBloctTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Programming1/ProductTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -929,9 +921,19 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/ExceptionEx1.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/Chapter07_Exception_Handling.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        <state relative-caret-position="30">
+          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter01_Variable/ExceptionEx1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>

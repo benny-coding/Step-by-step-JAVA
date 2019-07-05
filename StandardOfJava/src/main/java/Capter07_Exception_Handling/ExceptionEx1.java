@@ -1,4 +1,4 @@
-package Chapter05_object_oriented_programming2;
+package Capter07_Exception_Handling;
 
 public class ExceptionEx1 {
     public static void main(String[] args) {
