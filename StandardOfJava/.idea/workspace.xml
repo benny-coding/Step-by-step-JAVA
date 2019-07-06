@@ -2,10 +2,187 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38639d28-5889-4bdd-b048-516c9b966dba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter01_Variable/ExceptionEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/Chapter07_Exception_Handling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter07_Exception_Handling/ExceptionEx2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/ExceptionEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/ExceptionEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/A1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/A3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/AbstractMethodTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/AbstractMethodTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/AbstractPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/AirUnit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Attackable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Audio6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Audio7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/AudioPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/B1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/B3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/BindingTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/BindingTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/BindingTest3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Buyer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Buyer6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Buyer7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/C1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/CDPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/CaptionTv.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/CaptionTvTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Car2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Card.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Card1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/CastingTest1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/CastingTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Child.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Child0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Child2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Child3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Child4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Child5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Computer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Computer6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Computer7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Deck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/DefaultMethodTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/DeskTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/DrawShape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Dropship.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Dropship2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Fightable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Fighter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/FighterTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/FinalCardTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/FireEngine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/FireEngine2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/GroundUnit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/HTMLParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/I.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/I3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/ImportTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/InnerEx1$1LocalInner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/InnerEx1$InstanceInner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/InnerEx1$StaticInner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/InnerEx1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/InnerEx2$1LocalInner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/InnerEx2$InstanceInner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/InnerEx2$StaticInner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/InnerEx2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/InnerEx3$1LocalInner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/InnerEx3$InstanceInner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/InnerEx3$StaticInner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/InnerEx3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/InnerEx4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/InnerEx5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/InstanceManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/InstanceofTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/InterfaceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/InterfaceTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/InterfaceTest3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Marine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Marine2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Movable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/MyInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/MyInterface2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Outer$1LocalInner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Outer$InstanceInner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Outer$StaticInner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Outer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Outer2$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Outer2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/PackageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Parent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Parent0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Parent2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Parent3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Parent4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Parent5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Parseable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/ParserManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/ParserTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Point2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Point3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Point3D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Point3D2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/PointTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/PointTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/PolyArgumentTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/PolyArgumentTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/PolyArgumentTest3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Product6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Product7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Repairable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/RepairableTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/SCV.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/SingletonTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/StarCraft.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/StaticImportEx1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/SuperTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/SuperTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/TVCR.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Tank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Tank2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Time.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/TimeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Tv.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Tv2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Tv3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Tv6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Tv7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Unit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Unit2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Unit3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/VCR.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/XMLParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Capter07_Exception_Handling/ExceptionEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter07_Exception_Handling/ExceptionEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/AbstractMethodTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/AbstractMethodTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/AbstractMethodTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/AbstractMethodTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/BindingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/BindingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/BindingTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/BindingTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/BindingTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/BindingTest3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/CaptionTvTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/CaptionTvTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/CastingTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/CastingTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/CastingTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/CastingTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/DefaultMethodTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/DefaultMethodTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/DeskTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/DeskTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/DrawShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/DrawShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/FighterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/FighterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/FinalCardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/FinalCardTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/ImportTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/ImportTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InnerEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InnerEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InnerEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InnerEx2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InnerEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InnerEx3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InnerEx4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InnerEx4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InnerEx5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InnerEx5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InnerEx6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InnerEx6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InnerEx7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InnerEx7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InnerEx8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InnerEx8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InstanceofTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InstanceofTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InterfaceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InterfaceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InterfaceTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InterfaceTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InterfaceTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InterfaceTest3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/PackageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/PackageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/ParserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/ParserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/PointTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/PointTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/PointTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/PointTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/PolyArgumentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/PolyArgumentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/PolyArgumentTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/PolyArgumentTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/PolyArgumentTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/PolyArgumentTest3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/RepairableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/RepairableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/SingletonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/SingletonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/StarCraft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/StarCraft.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/StaticImportEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/StaticImportEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/SuperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/SuperTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/SuperTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/SuperTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/TVCR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/TVCR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/TimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/TimeTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -24,7 +201,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InnerEx7.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InnerEx7.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
               <caret line="17" selection-start-line="17" selection-end-line="17" />
@@ -36,10 +213,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InnerEx8.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InnerEx8.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="165">
+              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#308#309#0" expanded="true" />
@@ -49,31 +226,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/ExceptionEx1.java">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07_Exception_Handling/ExceptionEx2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/Chapter07_Exception_Handling.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07_Exception_Handling/ExceptionEx1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter01_Variable/ExceptionEx1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/SuperTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/SuperTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
@@ -157,9 +329,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Progerammin1/CarTest3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Progerammin1/BlockTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Progerammin1/StaticBloctTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Progerammin1/ProductTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Progerammin1/DocumentTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter01_Variable/ScannerEx.java" />
@@ -208,6 +377,9 @@
         <option value="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InnerEx8.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/ExceptionEx1.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter01_Variable/ExceptionEx1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Capter07_Exception_Handling/ExceptionEx1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InnerEx8.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter07_Exception_Handling/ExceptionEx2.java" />
       </list>
     </option>
   </component>
@@ -260,7 +432,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter05_object_oriented_programming2" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter06_Object_Oriented_Programming2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="StandardOfJava" type="b2602c69:ProjectViewProjectNode" />
@@ -268,8 +440,16 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter05_object_oriented_programming2" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter06_Object_Oriented_Programming2" type="462c0819:PsiDirectoryNode" />
               <item name="InterfaceTest3.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="StandardOfJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StandardOfJava" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter07_Exception_Handling" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -282,7 +462,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562335992988" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562398216596" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -299,13 +479,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InnerEx8">
-    <configuration name="DefaultMethodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter05_object_oriented_programming2.DefaultMethodTest" />
+  <component name="RunManager" selected="Application.ExceptionEx2">
+    <configuration name="ExceptionEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter07_Exception_Handling.ExceptionEx2" />
       <module name="StandardOfJava.StandardOfJava.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter05_object_oriented_programming2.*" />
+          <option name="PATTERN" value="Chapter07_Exception_Handling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -314,11 +494,11 @@
       </method>
     </configuration>
     <configuration name="InnerEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter05_object_oriented_programming2.InnerEx1" />
+      <option name="MAIN_CLASS_NAME" value="Chapter06_Object_Oriented_Programming2.InnerEx1" />
       <module name="StandardOfJava.StandardOfJava.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter05_object_oriented_programming2.*" />
+          <option name="PATTERN" value="Chapter06_Object_Oriented_Programming2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -327,11 +507,11 @@
       </method>
     </configuration>
     <configuration name="InnerEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter05_object_oriented_programming2.InnerEx4" />
+      <option name="MAIN_CLASS_NAME" value="Chapter06_Object_Oriented_Programming2.InnerEx4" />
       <module name="StandardOfJava.StandardOfJava.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter05_object_oriented_programming2.*" />
+          <option name="PATTERN" value="Chapter06_Object_Oriented_Programming2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -340,11 +520,11 @@
       </method>
     </configuration>
     <configuration name="InnerEx5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter05_object_oriented_programming2.InnerEx5" />
+      <option name="MAIN_CLASS_NAME" value="Chapter06_Object_Oriented_Programming2.InnerEx5" />
       <module name="StandardOfJava.StandardOfJava.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter05_object_oriented_programming2.*" />
+          <option name="PATTERN" value="Chapter06_Object_Oriented_Programming2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -353,11 +533,11 @@
       </method>
     </configuration>
     <configuration name="InnerEx8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter05_object_oriented_programming2.InnerEx8" />
+      <option name="MAIN_CLASS_NAME" value="Chapter06_Object_Oriented_Programming2.InnerEx8" />
       <module name="StandardOfJava.StandardOfJava.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter05_object_oriented_programming2.*" />
+          <option name="PATTERN" value="Chapter06_Object_Oriented_Programming2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -367,11 +547,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExceptionEx2" />
         <item itemvalue="Application.InnerEx8" />
         <item itemvalue="Application.InnerEx5" />
         <item itemvalue="Application.InnerEx4" />
         <item itemvalue="Application.InnerEx1" />
-        <item itemvalue="Application.DefaultMethodTest" />
       </list>
     </recent_temporary>
   </component>
@@ -438,12 +618,12 @@
       <workItem from="1561728661079" duration="1547000" />
       <workItem from="1561938260757" duration="4000" />
       <workItem from="1561991806301" duration="1801000" />
-      <workItem from="1562249692299" duration="1358000" />
+      <workItem from="1562249692299" duration="1763000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="222707000" />
+    <option name="totallyTimeSpent" value="223112000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -458,7 +638,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37911302" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.37911302" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -467,7 +647,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" internal_type="SLIDING" order="2" type="SLIDING" weight="0.28674698" />
+      <window_info active="true" anchor="bottom" id="Run" internal_type="SLIDING" order="2" type="SLIDING" visible="true" weight="0.28674698" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49928468" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -536,13 +716,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Programming1/ProductTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Programming1/DocumentTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -557,35 +730,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/CaptionTvTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/CaptionTvTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="28" column="48" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/DeskTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/DeskTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
           <caret line="41" selection-start-line="41" selection-end-line="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/TVCR.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/TVCR.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/DrawShape.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/DrawShape.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/PointTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/PointTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
@@ -596,14 +769,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/PointTest2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/PointTest2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/PackageTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/PackageTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
@@ -614,7 +787,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/ImportTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/ImportTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
@@ -624,7 +797,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/StaticImportEx1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/StaticImportEx1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="12" column="77" selection-start-line="12" selection-start-column="77" selection-end-line="12" selection-end-column="77" />
@@ -634,14 +807,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/FinalCardTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/FinalCardTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="28" column="60" selection-start-line="28" selection-start-column="60" selection-end-line="28" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/TimeTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/TimeTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="22" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="22" />
@@ -652,56 +825,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/SingletonTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/SingletonTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/CastingTest1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/CastingTest1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/CastingTest2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/CastingTest2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InstanceofTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InstanceofTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="30" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/BindingTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/BindingTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="69" selection-start-line="7" selection-start-column="69" selection-end-line="7" selection-end-column="69" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/BindingTest2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/BindingTest2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/BindingTest3.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/BindingTest3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/PolyArgumentTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/PolyArgumentTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="735">
           <caret line="55" selection-start-line="55" selection-end-line="55" />
@@ -714,56 +887,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/PolyArgumentTest2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/PolyArgumentTest2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1065">
           <caret line="73" column="29" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/PolyArgumentTest3.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/PolyArgumentTest3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1170">
           <caret line="78" selection-start-line="78" selection-end-line="78" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/AbstractMethodTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/AbstractMethodTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="30" column="49" selection-start-line="30" selection-start-column="49" selection-end-line="30" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/AbstractMethodTest2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/AbstractMethodTest2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/StarCraft.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/StarCraft.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/FighterTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/FighterTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="30" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/ParserTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/ParserTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="33" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/RepairableTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/RepairableTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
@@ -774,7 +947,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InterfaceTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InterfaceTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
@@ -787,77 +960,77 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InterfaceTest2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InterfaceTest2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="31" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InterfaceTest3.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InterfaceTest3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/DefaultMethodTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/DefaultMethodTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="34" column="57" selection-start-line="34" selection-start-column="57" selection-end-line="34" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InnerEx1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InnerEx1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InnerEx2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InnerEx2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InnerEx3.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InnerEx3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InnerEx4.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InnerEx4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InnerEx5.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InnerEx5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InnerEx6.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InnerEx6.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/SuperTest2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/SuperTest2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/SuperTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/SuperTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
@@ -898,7 +1071,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InnerEx7.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InnerEx7.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
@@ -908,20 +1081,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InnerEx8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/ExceptionEx1.java">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07_Exception_Handling/ExceptionEx1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/Chapter07_Exception_Handling.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -930,10 +1098,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter01_Variable/ExceptionEx1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InnerEx8.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        <state relative-caret-position="165">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07_Exception_Handling/ExceptionEx2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
