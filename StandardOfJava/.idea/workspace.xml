@@ -1,189 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38639d28-5889-4bdd-b048-516c9b966dba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter07_Exception_Handling/ExceptionEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/A1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/A3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/AbstractMethodTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/AbstractMethodTest2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/AbstractPlayer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/AirUnit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Attackable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Audio6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Audio7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/AudioPlayer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/B1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/B3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/BindingTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/BindingTest2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/BindingTest3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Buyer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Buyer6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Buyer7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/C1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/CDPlayer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/CaptionTv.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/CaptionTvTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Car2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Card.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Card1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/CastingTest1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/CastingTest2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Child.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Child0.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Child2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Child3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Child4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Child5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Computer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Computer6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Computer7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Deck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/DefaultMethodTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/DeskTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/DrawShape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Dropship.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Dropship2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Fightable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Fighter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/FighterTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/FinalCardTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/FireEngine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/FireEngine2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/GroundUnit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/HTMLParser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/I.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/I3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/ImportTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/InnerEx1$1LocalInner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/InnerEx1$InstanceInner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/InnerEx1$StaticInner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/InnerEx1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/InnerEx2$1LocalInner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/InnerEx2$InstanceInner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/InnerEx2$StaticInner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/InnerEx2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/InnerEx3$1LocalInner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/InnerEx3$InstanceInner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/InnerEx3$StaticInner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/InnerEx3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/InnerEx4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/InnerEx5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/InstanceManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/InstanceofTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/InterfaceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/InterfaceTest2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/InterfaceTest3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Marine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Marine2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Movable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/MyInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/MyInterface2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Outer$1LocalInner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Outer$InstanceInner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Outer$StaticInner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Outer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Outer2$Inner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Outer2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/PackageTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Parent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Parent0.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Parent2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Parent3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Parent4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Parent5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Parseable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/ParserManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/ParserTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Player.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Point2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Point3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Point3D.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Point3D2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/PointTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/PointTest2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/PolyArgumentTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/PolyArgumentTest2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/PolyArgumentTest3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Product6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Product7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Repairable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/RepairableTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/SCV.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Singleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/SingletonTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/StarCraft.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/StaticImportEx1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/SuperTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/SuperTest2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/TVCR.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Tank.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Tank2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Time.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/TimeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Triangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Tv.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Tv2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Tv3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Tv6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Tv7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Unit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Unit2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/Unit3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/VCR.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chapter05_Object_Oriented_Programming2/XMLParser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Capter07_Exception_Handling/ExceptionEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter07_Exception_Handling/ExceptionEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/AbstractMethodTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/AbstractMethodTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/AbstractMethodTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/AbstractMethodTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/BindingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/BindingTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/BindingTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/BindingTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/BindingTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/BindingTest3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/CaptionTvTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/CaptionTvTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/CastingTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/CastingTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/CastingTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/CastingTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/DefaultMethodTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/DefaultMethodTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/DeskTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/DeskTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/DrawShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/DrawShape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/FighterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/FighterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/FinalCardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/FinalCardTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/ImportTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/ImportTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InnerEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InnerEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InnerEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InnerEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InnerEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InnerEx3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InnerEx4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InnerEx4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InnerEx5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InnerEx5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InnerEx6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InnerEx6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InnerEx7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InnerEx7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InnerEx8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InnerEx8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InstanceofTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InstanceofTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InterfaceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InterfaceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InterfaceTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InterfaceTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/InterfaceTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InterfaceTest3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/PackageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/PackageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/ParserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/ParserTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/PointTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/PointTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/PointTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/PointTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/PolyArgumentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/PolyArgumentTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/PolyArgumentTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/PolyArgumentTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/PolyArgumentTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/PolyArgumentTest3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/RepairableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/RepairableTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/SingletonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/SingletonTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/StarCraft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/StarCraft.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/StaticImportEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/StaticImportEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/SuperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/SuperTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/SuperTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/SuperTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/TVCR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/TVCR.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/TimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/TimeTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="38639d28-5889-4bdd-b048-516c9b966dba" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -462,7 +280,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562398216596" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562398260402" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -618,12 +436,12 @@
       <workItem from="1561728661079" duration="1547000" />
       <workItem from="1561938260757" duration="4000" />
       <workItem from="1561991806301" duration="1801000" />
-      <workItem from="1562249692299" duration="1763000" />
+      <workItem from="1562249692299" duration="1940000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="223112000" />
+    <option name="totallyTimeSpent" value="223289000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -636,7 +454,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.37911302" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -647,15 +464,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" internal_type="SLIDING" order="2" type="SLIDING" visible="true" weight="0.28674698" />
+      <window_info anchor="bottom" id="Run" internal_type="SLIDING" order="2" type="SLIDING" weight="0.28674698" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49928468" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32907802" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.46995708" visible="true" weight="0.31084338" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.46852645" visible="true" weight="0.31084338" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.53004295" side_tool="true" visible="true" weight="0.31084338" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5314735" side_tool="true" visible="true" weight="0.31084338" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4914163" weight="0.3253012" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.4985694" weight="0.32891566" />
