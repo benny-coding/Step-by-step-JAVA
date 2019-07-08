@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38639d28-5889-4bdd-b048-516c9b966dba" name="Default Changelist" comment="" />
+    <list default="true" id="38639d28-5889-4bdd-b048-516c9b966dba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter07_Exception_Handling/ExceptionEx4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -19,10 +22,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InnerEx7.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InnerEx8.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="120">
+              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -31,24 +34,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InnerEx8.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07_Exception_Handling/ExceptionEx2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#308#309#0" expanded="true" />
-                <element signature="e#360#361#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07_Exception_Handling/ExceptionEx3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07_Exception_Handling/ExceptionEx2.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07_Exception_Handling/ExceptionEx4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="195">
+              <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -147,8 +154,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Progerammin1/ProductTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Progerammin1/DocumentTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter01_Variable/ScannerEx.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Programming2/CaptionTvTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Programming2/DrawShape.java" />
@@ -198,6 +203,8 @@
         <option value="$PROJECT_DIR$/src/main/java/Capter07_Exception_Handling/ExceptionEx1.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InnerEx8.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07_Exception_Handling/ExceptionEx2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter07_Exception_Handling/ExceptionEx3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter07_Exception_Handling/ExceptionEx4.java" />
       </list>
     </option>
   </component>
@@ -242,31 +249,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter01_Variable" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="StandardOfJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StandardOfJava" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter06_Object_Oriented_Programming2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="StandardOfJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StandardOfJava" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter06_Object_Oriented_Programming2" type="462c0819:PsiDirectoryNode" />
-              <item name="InterfaceTest3.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="StandardOfJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StandardOfJava" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Chapter07_Exception_Handling" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -280,7 +262,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562398260402" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562590285360" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -297,7 +279,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ExceptionEx2">
+  <component name="RunManager" selected="Application.ExceptionEx4">
     <configuration name="ExceptionEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter07_Exception_Handling.ExceptionEx2" />
       <module name="StandardOfJava.StandardOfJava.main" />
@@ -311,12 +293,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InnerEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter06_Object_Oriented_Programming2.InnerEx1" />
+    <configuration name="ExceptionEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter07_Exception_Handling.ExceptionEx4" />
       <module name="StandardOfJava.StandardOfJava.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter06_Object_Oriented_Programming2.*" />
+          <option name="PATTERN" value="Chapter07_Exception_Handling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -365,11 +347,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExceptionEx4" />
         <item itemvalue="Application.ExceptionEx2" />
         <item itemvalue="Application.InnerEx8" />
         <item itemvalue="Application.InnerEx5" />
         <item itemvalue="Application.InnerEx4" />
-        <item itemvalue="Application.InnerEx1" />
       </list>
     </recent_temporary>
   </component>
@@ -437,11 +419,13 @@
       <workItem from="1561938260757" duration="4000" />
       <workItem from="1561991806301" duration="1801000" />
       <workItem from="1562249692299" duration="1940000" />
+      <workItem from="1562507985388" duration="319000" />
+      <workItem from="1562589867170" duration="415000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="223289000" />
+    <option name="totallyTimeSpent" value="224023000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -454,8 +438,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.37911302" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38984263" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -470,9 +455,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32907802" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.46852645" visible="true" weight="0.31084338" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.46709585" visible="true" weight="0.31084338" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5314735" side_tool="true" visible="true" weight="0.31084338" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.53290415" side_tool="true" visible="true" weight="0.31084338" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4914163" weight="0.3253012" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.4985694" weight="0.32891566" />
@@ -533,20 +518,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_Object_Oriented_Programming1/DocumentTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter01_Variable/ScannerEx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/CaptionTvTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -847,6 +818,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/ExceptionEx1.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/Chapter07_Exception_Handling.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InnerEx7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InnerEx8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07_Exception_Handling/ExceptionEx2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07_Exception_Handling/ExceptionEx1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/SuperTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -888,49 +895,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InnerEx7.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07_Exception_Handling/ExceptionEx3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/ExceptionEx1.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07_Exception_Handling/ExceptionEx1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07_Exception_Handling/ExceptionEx4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter05_object_oriented_programming2/Chapter07_Exception_Handling.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/InnerEx8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07_Exception_Handling/ExceptionEx2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="195">
+          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
         </state>
       </provider>
     </entry>
