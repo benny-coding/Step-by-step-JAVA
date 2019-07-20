@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38639d28-5889-4bdd-b048-516c9b966dba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter07_Exception_Handling/ExceptionEx14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter07_Exception_Handling/ExceptionEx15.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,15 +22,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07_Exception_Handling/ExceptionEx12.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07_Exception_Handling/ExceptionEx13.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -43,11 +34,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07_Exception_Handling/ExceptionEx14.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
               <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07_Exception_Handling/ExceptionEx15.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -159,7 +159,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/ImportTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/StaticImportEx1.java" />
         <option value="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/FinalCardTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/chapter05_object_oriented_programming2/TimeTest.java" />
@@ -210,6 +209,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Chapter07_Exception_Handling/ExceptionEx13.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07_Exception_Handling/ExceptionEx10.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07_Exception_Handling/ExceptionEx14.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter07_Exception_Handling/ExceptionEx15.java" />
       </list>
     </option>
   </component>
@@ -267,7 +267,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563545687274" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563634467334" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -284,7 +284,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ExceptionEx14">
+  <component name="RunManager" selected="Application.ExceptionEx15">
     <configuration name="ExceptionEx10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter07_Exception_Handling.ExceptionEx10" />
       <module name="StandardOfJava.StandardOfJava.main" />
@@ -324,8 +324,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionEx8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter07_Exception_Handling.ExceptionEx8" />
+    <configuration name="ExceptionEx15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter07_Exception_Handling.ExceptionEx15" />
       <module name="StandardOfJava.StandardOfJava.main" />
       <extension name="coverage">
         <pattern>
@@ -352,11 +352,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExceptionEx15" />
         <item itemvalue="Application.ExceptionEx14" />
         <item itemvalue="Application.ExceptionEx13" />
         <item itemvalue="Application.ExceptionEx10" />
         <item itemvalue="Application.ExceptionEx9" />
-        <item itemvalue="Application.ExceptionEx8" />
       </list>
     </recent_temporary>
   </component>
@@ -436,12 +436,12 @@
       <workItem from="1563193020123" duration="999000" />
       <workItem from="1563278369038" duration="168000" />
       <workItem from="1563278646095" duration="1371000" />
-      <workItem from="1563492923381" duration="602000" />
+      <workItem from="1563492923381" duration="1849000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="230140000" />
+    <option name="totallyTimeSpent" value="231387000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -456,7 +456,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.45565093" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.45565093" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -471,10 +471,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32907802" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.45636624" weight="0.31084338" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.45565093" visible="true" weight="0.31084338" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.51216024" side_tool="true" visible="true" weight="0.3253012" />
-      <window_info active="true" anchor="bottom" id="Messages" order="11" sideWeight="0.48783976" visible="true" weight="0.3253012" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5443491" side_tool="true" visible="true" weight="0.31084338" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.48783976" weight="0.3253012" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.4985694" weight="0.32891566" />
       <window_info anchor="bottom" id="Thumbnails" order="14" sideWeight="0.49928468" weight="0.27831325" />
@@ -534,13 +534,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/SingletonTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06_Object_Oriented_Programming2/CastingTest1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -912,6 +905,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07_Exception_Handling/ExceptionEx15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
         </state>
       </provider>
     </entry>
