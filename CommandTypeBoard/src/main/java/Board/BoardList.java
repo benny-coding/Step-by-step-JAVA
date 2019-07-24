@@ -6,6 +6,8 @@ public class BoardList {
     static int page_list_count = 10;
     static int now_page;
     static int all_list_count = 14;
+    static int action;
+
 
     public static void View_List(int count) {
         for (int i = 0; i < count; i++) {
@@ -18,6 +20,8 @@ public class BoardList {
 
 
     public static void main(String args[]) {
+        Scanner action_number = new Scanner(System.in);
+
         System.out.println("-----------------------------------------------------------------------");
         System.out.println("| 번호 |              제목              |  글쓴이  |     날짜     |  조회수  |");
         System.out.println("-----------------------------------------------------------------------");
@@ -25,6 +29,27 @@ public class BoardList {
             View_List(page_list_count);
         } else {
             View_List(all_list_count);
+        }
+        System.out.println("                     1 2 3 4 5 6 7 8 9 10                              ");
+        System.out.println("-----------------------------------------------------------------------");
+        System.out.println("1.게시글 상세보기  2.글쓰기  3.다른 페이지 글 보기");
+        System.out.printf("원하는 행동의 번호를 입력해주세요 : ");
+        action = action_number.nextInt();
+
+        if(action == 1){
+            System.out.println("-----------------------------------------------------------------------");
+            System.out.println("  제목  |    제목입니다.                                                              ");
+            System.out.println(" 글쓴이  |   오동진                                                           ");
+            System.out.println("  날짜  |   2019-07-23                                                           ");
+            System.out.println("  내용  |                                                              ");
+            System.out.println("-----------------------------------------------------------------------");
+
+        } else if (action == 2){
+
+        } else if (action == 3){
+
+        } else {
+
         }
     }
 }
