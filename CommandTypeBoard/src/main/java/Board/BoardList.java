@@ -20,7 +20,7 @@ public class BoardList {
 
 
     public static void main(String args[]) {
-        Scanner action_number = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
 
         System.out.println("-----------------------------------------------------------------------");
         System.out.println("| 번호 |              제목              |  글쓴이  |     날짜     |  조회수  |");
@@ -34,7 +34,8 @@ public class BoardList {
         System.out.println("-----------------------------------------------------------------------");
         System.out.println("1.게시글 상세보기  2.글쓰기  3.다른 페이지 글 보기");
         System.out.printf("원하는 행동의 번호를 입력해주세요 : ");
-        action = action_number.nextInt();
+        action = Integer.parseInt(scanner.nextLine());
+
 
         if(action == 1){
             System.out.println("-----------------------------------------------------------------------");
@@ -42,9 +43,27 @@ public class BoardList {
             System.out.println(" 글쓴이  |   오동진                                                           ");
             System.out.println("  날짜  |   2019-07-23                                                           ");
             System.out.println("  내용  |                                                              ");
+            System.out.println("       |                                                              ");
+            System.out.println("       |                                                              ");
+            System.out.println("       |                                                              ");
             System.out.println("-----------------------------------------------------------------------");
 
         } else if (action == 2){
+            System.out.println("  제목  |  ");
+            String title = scanner.nextLine();
+            System.out.println("  내용  |  ");
+            String contents = scanner.nextLine();
+            System.out.println("  작성한 내용을 저장하시겠습니까? ( 예 / 아니요 )  ");
+            String save_yn = scanner.nextLine();
+            if( save_yn == "예") {
+
+            } else if( save_yn == "아니요"){
+
+            } else {
+
+            }
+
+
 
         } else if (action == 3){
 
