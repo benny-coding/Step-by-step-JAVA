@@ -49,18 +49,21 @@ public class BoardList {
             System.out.println("-----------------------------------------------------------------------");
 
         } else if (action == 2){
-            System.out.println("  제목  |  ");
-            String title = scanner.nextLine();
-            System.out.println("  내용  |  ");
-            String contents = scanner.nextLine();
-            System.out.println("  작성한 내용을 저장하시겠습니까? ( 예 / 아니요 )  ");
-            String save_yn = scanner.nextLine();
-            if( save_yn == "예") {
 
-            } else if( save_yn == "아니요"){
-
-            } else {
-
+            while(true) {
+                System.out.print("  제목  |  ");
+                String title = scanner.nextLine();
+                System.out.print("  내용  |  ");
+                String contents = scanner.nextLine();
+                System.out.println("  작성한 내용을 저장하시겠습니까? ( 예 / 아니요 )  ");
+                String save_yn = scanner.nextLine();
+                if (save_yn == "예") {
+                    break;
+                } else if (save_yn == "아니요") {
+                    break;
+                } else {
+                    System.out.println(" 잘못된 값을 입력하셨습니다.");
+                }
             }
 
 

@@ -33,9 +33,8 @@ public class DBConnection {
             // stmt.excuteQeury(SQL)  : select
             // stmt.excuteUpdate(SQL) : insert, update, delete ..
             rs = stmt.executeQuery(SQL);
-            System.out.println(rs.next());
-            System.out.println(rs.next());
-            System.out.println(rs.getString(2));
+            // System.out.println(rs.next());
+            // System.out.println(rs.getString(2));
             // 5. ResultSet에 저장된 데이터 얻기 - 결과가 2개 이상
             while (rs.next()) {
                 String user_number = rs.getString("user_number");
