@@ -1,84 +1,84 @@
 package Board;
 import java.util.Scanner;
-import java.
 import java.sql.*;
+import java.util.HashMap;
+import java.util.Map;
 
 
 class DBConnection {
 
-        Connection con = null;
-        Statement stmt = null; // SQL 문을 데이터베이스에 보내기위한 객체
-        ResultSet rs = null; // SQL 질의에 의해 생성된 테이블을 저장하는 객체
+    Connection con = null;
+    Statement stmt = null; // SQL 문을 데이터베이스에 보내기위한 객체
+    ResultSet result = null; // SQL 질의에 의해 생성된 테이블을 저장하는 객체
+    String Select_Data[];
+    HashMap<String, String> list_contents = new HashMap();
 
-        // 1. JDBC Driver Class - com.mysql.jdbc.Driver
-        String driver = "com.mysql.jdbc.Driver";
+    // # 1. JDBC Mysql 세팅 정보
+    final String driver = "com.mysql.jdbc.Driver";
+    final String url = "jdbc:mysql://localhost:3306/command_type_board?useSSL=false";
+    final String user = "root";
+    final String password = "space0707";
 
 
-        String url = "jdbc:mysql://localhost:3306/command_type_board?useSSL=false";
-        String user = "root";
-        String password = "space0707";
-
-        String SQL = "SELECT * FROM user_infomation";
-
+    public void Connect() {
         try {
-            // 1/ JDBC 드라이버 로딩
+            // # 드라이버 로딩
             Class.forName(driver);
 
-            // 2. Connection 객체 생성
-            con = DriverManager.getConnection(url, user, password);
+            // # DB 연결하기
+            con = DriverManager.getConnection(url,user, password);
 
-            // 3. Statement 객체 생성
+            // # 쿼리 수행을 위한 Statement 객체를 생성
             stmt = con.createStatement();
 
-            // 4. SQL 문장을 실행하고 결과를 리턴
-            // stmt.excuteQeury(SQL)  : select
-            // stmt.excuteUpdate(SQL) : insert, update, delete ..
-            rs = stmt.executeQuery(SQL);
-            // System.out.println(rs.next());
-            // System.out.println(rs.getString(2));
-            // 5. ResultSet에 저장된 데이터 얻기 - 결과가 2개 이상
-            while (rs.next()) {
-                String user_number = rs.getString("user_number");
-                String user_name = rs.getString("user_name");
-
-                System.out.println("user_number : " + user_number);
-                System.out.println("user_name : " + user_name);
-            }
-        } catch (SQLException e) {
-
-            System.out.println("SQL Error : " +  e.getMessage());
-
-        } catch (ClassNotFoundException e1) {
-
+        } catch ( ClassNotFoundException e1 ){
             System.out.println("[JDBC Connector Driver 오류 : " + e1.getMessage() + "]");
-
-        } finally {
-
-            // 사용 순서와 반대로 close 함
-
-            if (rs != null) {
-                try {
-                    rs.close();
-                } catch (SQLException e) {
-                    e.printStackTrace();
-                }
-            }
-            if (stmt != null){
-                try {
-                    stmt.close();
-                } catch (SQLException e) {
-                    e.printStackTrace();
-                }
-            }
-
-            if (con != null) {
-                try {
-                    con.close();
-                } catch (SQLException e) {
-                    e.printStackTrace();
-                }
-            }
+        } catch ( SQLException e ) {
+            System.out.println("SQL 에러 : " + e);
         }
+
+    }
+
+    public void QueryExcute(String sql) {
+
+        try {
+            result = stmt.executeQuery(sql);
+        } catch( SQLException e){
+            System.out.println("SQL 실행 에러 " + e);
+        }
+        System.out.println(" 쿼리가 정상 실행되었습니다.");
+
+    }
+
+    public HashMap SelectResult(String sql) {
+
+        try {
+            result = stmt.executeQuery(sql);
+            ResultSetMetaData resultmd = result.getMetaData();
+            // # 열의 개수 구하기
+            int colCount = resultmd.getColumnCount();
+
+            // # 행의 개수 구하기
+            result.last();
+            int rowCount = result.getRow();
+
+            // # 모든 데이터 배열에 넣기
+            result.absolute(0);
+            for(int i = 1; i <= rowCount; i++){ // 행
+                result.next();
+                for(int j = 1; j <= colCount; j++ ){
+
+                    list_contents.put(resultmd.getColumnName(j),result.getString(j));
+                }
+            }
+
+            //Select_Data[0] = "123";
+
+        } catch (SQLException e){
+            System.out.println("SELECT문 실행 에러 " + e);
+        }
+        return list_contents;
+    }
 
 }
 
@@ -102,6 +102,13 @@ public class BoardList {
 
     public static void main(String args[]) {
         Scanner scanner = new Scanner(System.in);
+        DBConnection selectall = new DBConnection();
+
+        selectall.Connect();
+        String SQL = "SELECT * FROM user_infomation";
+        HashMap hashmap = selectall.SelectResult(SQL);
+
+        System.out.println("해쉬맵 : " + hashmap.keySet()  + " : " +hashmap.values());
 
         System.out.println("-----------------------------------------------------------------------");
         System.out.println("| 번호 |              제목              |  글쓴이  |     날짜     |  조회수  |");
