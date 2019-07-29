@@ -1,8 +1,10 @@
 package Board;
 import java.util.Scanner;
 import java.sql.*;
-import java.util.HashMap;
-import java.util.Map;
+import com.google.gson.Gson;
+import com.google.gson.JsonObject;
+import com.google.gson.JsonArray;
+
 
 
 class DBConnection {
@@ -11,7 +13,9 @@ class DBConnection {
     Statement stmt = null; // SQL 문을 데이터베이스에 보내기위한 객체
     ResultSet result = null; // SQL 질의에 의해 생성된 테이블을 저장하는 객체
     String Select_Data[];
-    HashMap<String, String> list_contents = new HashMap();
+
+    Gson gson = new Gson();
+    JsonArray jsonArray = new JsonArray();
 
     // # 1. JDBC Mysql 세팅 정보
     final String driver = "com.mysql.jdbc.Driver";
@@ -50,7 +54,7 @@ class DBConnection {
 
     }
 
-    public HashMap SelectResult(String sql) {
+    public void SelectResult(String sql) {
 
         try {
             result = stmt.executeQuery(sql);
@@ -66,18 +70,28 @@ class DBConnection {
             result.absolute(0);
             for(int i = 1; i <= rowCount; i++){ // 행
                 result.next();
+                JsonObject jsonObject = new JsonObject();
+
                 for(int j = 1; j <= colCount; j++ ){
 
-                    list_contents.put(resultmd.getColumnName(j),result.getString(j));
+                    jsonObject.addProperty(resultmd.getColumnName(j),result.getString(j));
                 }
+
+                jsonArray.add(jsonObject);
+
             }
+
+            JsonObject object = (JsonObject) jsonArray.get(0);
+            //gson.toJson(jsonArray);
+
+            System.out.println(object.get("user_name").getAsString());
 
             //Select_Data[0] = "123";
 
         } catch (SQLException e){
             System.out.println("SELECT문 실행 에러 " + e);
         }
-        return list_contents;
+
     }
 
 }
@@ -106,9 +120,9 @@ public class BoardList {
 
         selectall.Connect();
         String SQL = "SELECT * FROM user_infomation";
-        HashMap hashmap = selectall.SelectResult(SQL);
+        selectall.SelectResult(SQL);
 
-        System.out.println("해쉬맵 : " + hashmap.keySet()  + " : " +hashmap.values());
+        //System.out.println("해쉬맵 : " + hashmap.keySet()  + " : " +hashmap.values());
 
         System.out.println("-----------------------------------------------------------------------");
         System.out.println("| 번호 |              제목              |  글쓴이  |     날짜     |  조회수  |");
