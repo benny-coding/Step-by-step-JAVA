@@ -1,5 +1,7 @@
 package Board;
 import java.util.Scanner;
+import java.util.Date;
+import java.text.SimpleDateFormat;
 import java.sql.*;
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;
@@ -46,6 +48,17 @@ class DBConnection {
     public void QueryExcute(String sql) {
 
         try {
+            stmt.executeUpdate(sql);
+        } catch( SQLException e){
+            System.out.println("SQL 실행 에러 " + e);
+        }
+        System.out.println(" 쿼리가 정상 실행되었습니다.");
+
+    }
+
+    public void Query(String sql) {
+
+        try {
             result = stmt.executeQuery(sql);
         } catch( SQLException e){
             System.out.println("SQL 실행 에러 " + e);
@@ -54,7 +67,9 @@ class DBConnection {
 
     }
 
-    public void SelectResult(String sql) {
+    public JsonObject SelectResult(String sql) {
+
+        JsonObject json_data = new JsonObject();
 
         try {
             result = stmt.executeQuery(sql);
@@ -76,21 +91,15 @@ class DBConnection {
 
                     jsonObject.addProperty(resultmd.getColumnName(j),result.getString(j));
                 }
-
                 jsonArray.add(jsonObject);
-
             }
-
-            JsonObject object = (JsonObject) jsonArray.get(0);
-            //gson.toJson(jsonArray);
-
-            System.out.println(object.get("user_name").getAsString());
-
-            //Select_Data[0] = "123";
+            json_data.add("board_list",jsonArray);
 
         } catch (SQLException e){
             System.out.println("SELECT문 실행 에러 " + e);
         }
+
+        return json_data;
 
     }
 
@@ -116,21 +125,49 @@ public class BoardList {
 
     public static void main(String args[]) {
         Scanner scanner = new Scanner(System.in);
-        DBConnection selectall = new DBConnection();
+        DBConnection Mysql = new DBConnection();
 
-        selectall.Connect();
-        String SQL = "SELECT * FROM user_infomation";
-        selectall.SelectResult(SQL);
+        Mysql.Connect();
+        JsonObject json_data = Mysql.SelectResult("SELECT * FROM board_list");
+        JsonArray board_list_array = json_data.getAsJsonArray("board_list");
+        all_list_count = board_list_array.size();
 
-        //System.out.println("해쉬맵 : " + hashmap.keySet()  + " : " +hashmap.values());
-
+        System.out.println(board_list_array);
         System.out.println("-----------------------------------------------------------------------");
         System.out.println("| 번호 |              제목              |  글쓴이  |     날짜     |  조회수  |");
         System.out.println("-----------------------------------------------------------------------");
         if (all_list_count >= page_list_count) {
-            View_List(page_list_count);
+            for(int i = 0; i < page_list_count; i++){
+
+                JsonObject list_row = board_list_array.get(i).getAsJsonObject();
+
+                System.out.println("   " + list_row.get("index").getAsString()  +
+                                   "                " + list_row.get("title").getAsString() +
+                                   "             " + list_row.get("contents").getAsString() +
+                                   "     " + list_row.get("writer").getAsString() +
+                                   "     " + list_row.get("view_count").getAsString() + "   ");
+                if (i == page_list_count - 1) {
+                    System.out.println("-----------------------------------------------------------------------");
+                }
+            }
         } else {
-            View_List(all_list_count);
+            try {
+                for (int i = 0; i < all_list_count; i++) {
+
+                    JsonObject list_row = board_list_array.get(i).getAsJsonObject();
+
+                    System.out.println("   " + list_row.get("index").getAsString() +
+                            "                " + list_row.get("title").getAsString() +
+                            "             " + list_row.get("contents").getAsString() +
+                            "     " + list_row.get("writer").getAsString() +
+                            "          " + list_row.get("view_count").getAsString() + "   ");
+                    if (i == all_list_count - 1) {
+                        System.out.println("-----------------------------------------------------------------------");
+                    }
+                }
+            } catch (NullPointerException e) {
+                System.out.println(e.fillInStackTrace());
+            }
         }
         System.out.println("                     1 2 3 4 5 6 7 8 9 10                              ");
         System.out.println("-----------------------------------------------------------------------");
@@ -152,19 +189,31 @@ public class BoardList {
 
         } else if (action == 2){
 
+            Date time = new Date();
+            String now_time = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss").format(time);
+
             while(true) {
+                System.out.print("  작성자  |  ");
+                String writer = scanner.nextLine();
                 System.out.print("  제목  |  ");
                 String title = scanner.nextLine();
                 System.out.print("  내용  |  ");
                 String contents = scanner.nextLine();
-                System.out.println("  작성한 내용을 저장하시겠습니까? ( 예 / 아니요 )  ");
+                System.out.println("  작성한 내용을 저장하시겠습니까? ( Y / N )  ");
                 String save_yn = scanner.nextLine();
-                if (save_yn == "예") {
+                if (save_yn.equals("Y")) {
+
+                    String SQL  = "INSERT INTO board_list(title,writer,contents,write_time) " +
+                                 "VALUES('" + title + "','" + writer + "','" + contents + "','" + now_time + "')";
+                    System.out.println(SQL);
+                    Mysql.QueryExcute(SQL);
                     break;
-                } else if (save_yn == "아니요") {
+                } else if (save_yn.equals("N")) {
                     break;
                 } else {
+
                     System.out.println(" 잘못된 값을 입력하셨습니다.");
+                    System.out.println(" 입력하신 값은 " + save_yn + " 입니다.");
                 }
             }
 
