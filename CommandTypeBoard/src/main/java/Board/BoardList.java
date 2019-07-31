@@ -105,6 +105,7 @@ class DBConnection {
 
 }
 
+// # 게시판 View 클래스
 public class BoardList {
 
     static int page_list_count = 10;
@@ -177,6 +178,12 @@ public class BoardList {
 
 
         if(action == 1){
+            System.out.println("보고 싶은 글의 번호를 입력해주세요 : ");
+            String index = scanner.nextLine();
+
+            JsonObject board_infomation = Mysql.SelectResult("SELECT * FROM board_list WHERE board_index = " + index + "");
+            System.out.println(board_infomation);
+
             System.out.println("-----------------------------------------------------------------------");
             System.out.println("  제목  |    제목입니다.                                                              ");
             System.out.println(" 글쓴이  |   오동진                                                           ");
