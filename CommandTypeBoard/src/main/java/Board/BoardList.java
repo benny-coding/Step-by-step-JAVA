@@ -109,8 +109,11 @@ class DBConnection {
 public class BoardList {
 
     static int page_list_count = 10;
+    static int block_page_count = 10;
     static int now_page;
-    static int all_list_count = 14;
+    static int now_block;
+    static int all_list_count;
+    static int all_page_count;
     static int action;
 
 
@@ -142,10 +145,10 @@ public class BoardList {
 
                 JsonObject list_row = board_list_array.get(i).getAsJsonObject();
 
-                System.out.println("   " + list_row.get("index").getAsString()  +
+                System.out.println("   " + list_row.get("board_index").getAsString()  +
                                    "                " + list_row.get("title").getAsString() +
-                                   "             " + list_row.get("contents").getAsString() +
-                                   "     " + list_row.get("writer").getAsString() +
+                                   "                " + list_row.get("writer").getAsString() +
+                                    "    " + list_row.get("write_time").getAsString() +
                                    "     " + list_row.get("view_count").getAsString() + "   ");
                 if (i == page_list_count - 1) {
                     System.out.println("-----------------------------------------------------------------------");
@@ -157,11 +160,11 @@ public class BoardList {
 
                     JsonObject list_row = board_list_array.get(i).getAsJsonObject();
 
-                    System.out.println("   " + list_row.get("index").getAsString() +
+                    System.out.println("   " + list_row.get("board_index").getAsString() +
                             "                " + list_row.get("title").getAsString() +
-                            "             " + list_row.get("contents").getAsString() +
-                            "     " + list_row.get("writer").getAsString() +
-                            "          " + list_row.get("view_count").getAsString() + "   ");
+                            "                " + list_row.get("writer").getAsString() +
+                            "      " + list_row.get("write_time").getAsString() +
+                            "      " + list_row.get("view_count").getAsString() + "   ");
                     if (i == all_list_count - 1) {
                         System.out.println("-----------------------------------------------------------------------");
                     }
@@ -178,17 +181,25 @@ public class BoardList {
 
 
         if(action == 1){
-            System.out.println("보고 싶은 글의 번호를 입력해주세요 : ");
+            System.out.print("보고 싶은 글의 번호를 입력해주세요 : ");
             String index = scanner.nextLine();
+            DBConnection Mysql2 = new DBConnection();
+            Mysql2.Connect();
+            JsonObject board_infomation = Mysql2.SelectResult("SELECT * FROM board_list WHERE board_index = " + index + "");
+            System.out.println(board_infomation);
+            JsonArray board_infomationArray = board_infomation.getAsJsonArray("board_list");
 
-            JsonObject board_infomation = Mysql.SelectResult("SELECT * FROM board_list WHERE board_index = " + index + "");
             System.out.println(board_infomation);
 
+            JsonObject list_row = board_infomationArray.get(0).getAsJsonObject();
+
+            System.out.println(list_row);
+
             System.out.println("-----------------------------------------------------------------------");
-            System.out.println("  제목  |    제목입니다.                                                              ");
-            System.out.println(" 글쓴이  |   오동진                                                           ");
-            System.out.println("  날짜  |   2019-07-23                                                           ");
-            System.out.println("  내용  |                                                              ");
+            System.out.println("  제목  |    " + list_row.get("title").getAsString()+"");
+            System.out.println(" 글쓴이  |   " + list_row.get("writer").getAsString()+"");
+            System.out.println("  날짜  |   " + list_row.get("write_time").getAsString()+"");
+            System.out.println("  내용  |   " + list_row.get("contents").getAsString()+"");
             System.out.println("       |                                                              ");
             System.out.println("       |                                                              ");
             System.out.println("       |                                                              ");
