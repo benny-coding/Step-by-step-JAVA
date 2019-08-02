@@ -173,7 +173,12 @@ public class BoardList {
                 System.out.println(e.fillInStackTrace());
             }
         }
-        System.out.println("                     1 2 3 4 5 6 7 8 9 10                              ");
+        System.out.print("                     ");
+        now_block = all_list_count / page_list_count;
+        for(int i = 1; i <= now_block; i++) {
+            System.out.print(i +" ");
+        }
+        System.out.println("");
         System.out.println("-----------------------------------------------------------------------");
         System.out.println("1.게시글 상세보기  2.글쓰기  3.다른 페이지 글 보기");
         System.out.printf("원하는 행동의 번호를 입력해주세요 : ");
