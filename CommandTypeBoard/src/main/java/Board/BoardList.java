@@ -132,10 +132,11 @@ public class BoardList {
         DBConnection Mysql = new DBConnection();
 
         Mysql.Connect();
-        JsonObject json_data = Mysql.SelectResult("SELECT * FROM board_list");
+        JsonObject json_data = Mysql.SelectResult("SELECT * FROM board_list limit 5");
         JsonArray board_list_array = json_data.getAsJsonArray("board_list");
         all_list_count = board_list_array.size();
 
+        // # 메인 화면
         System.out.println(board_list_array);
         System.out.println("-----------------------------------------------------------------------");
         System.out.println("| 번호 |              제목              |  글쓴이  |     날짜     |  조회수  |");
@@ -174,7 +175,7 @@ public class BoardList {
             }
         }
         System.out.print("                     ");
-        now_block = all_list_count / page_list_count;
+        now_block = all_list_count / page_list_count + 1;
         for(int i = 1; i <= now_block; i++) {
             System.out.print(i +" ");
         }
@@ -184,7 +185,7 @@ public class BoardList {
         System.out.printf("원하는 행동의 번호를 입력해주세요 : ");
         action = Integer.parseInt(scanner.nextLine());
 
-
+        // # 게시글 상세 내용 페이지
         if(action == 1){
             System.out.print("보고 싶은 글의 번호를 입력해주세요 : ");
             String index = scanner.nextLine();
@@ -210,6 +211,7 @@ public class BoardList {
             System.out.println("       |                                                              ");
             System.out.println("-----------------------------------------------------------------------");
 
+        // # 글쓰기 페이지
         } else if (action == 2){
 
             Date time = new Date();
@@ -243,6 +245,8 @@ public class BoardList {
 
 
         } else if (action == 3){
+
+
 
         } else {
 
