@@ -13,6 +13,13 @@ public class Controller {
     public static void untrue_Action(){
         System.out.print("잘못된 값을 입력하셨습니다. 다시 입력해주세요 : ");
         action = scanner.nextLine();
+
+        SingleTone s = SingleTone.getInstance();
+
+        s.setLog("asdf");
+
+
+
     }
 
     public static void main(String[] args) {
