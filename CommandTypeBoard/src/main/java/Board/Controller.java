@@ -18,8 +18,6 @@ public class Controller {
 
         s.setLog("asdf");
 
-
-
     }
 
     public static void main(String[] args) {
