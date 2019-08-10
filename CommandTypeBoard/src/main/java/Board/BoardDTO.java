@@ -2,9 +2,11 @@ package Board;
 
 public class BoardDTO {
 
+
     private int boardIndex;
+    private int articleNumber;
     private String writer;
-    private String write_time;
+    private String writeTime;
     private String title;
     private String contents;
     private String viewCount;
@@ -20,6 +22,14 @@ public class BoardDTO {
         this.boardIndex = boardIndex;
     }
 
+    public int getArticleNumber() {
+        return articleNumber;
+    }
+
+    public void setArticleNumber(int articleNumber) {
+        this.articleNumber = articleNumber;
+    }
+
     public String getWriter() {
         return writer;
     }
@@ -28,12 +38,12 @@ public class BoardDTO {
         this.writer = writer;
     }
 
-    public String getWrite_time() {
-        return write_time;
+    public String getWriteTime() {
+        return writeTime;
     }
 
-    public void setWrite_time(String write_time) {
-        this.write_time = write_time;
+    public void setWriteTime(String writeTime) {
+        this.writeTime = writeTime;
     }
 
     public String getTitle() {
