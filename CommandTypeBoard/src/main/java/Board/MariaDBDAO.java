@@ -1,5 +1,7 @@
 package Board;
 
+import java.sql.*;
+
 public class MariaDBDAO {
 
     // # 바로 메모리에 할당하는 방법
@@ -16,5 +18,16 @@ public class MariaDBDAO {
 
         }
         return MrDAO;
+    }
+
+    public Connection getConnection() throws SQLException,ClassNotFoundException {
+        Class.forName("com.mysql.jdbc.Driver");
+        // core.log를 사용하게 되 쿼리 결과를 콘솔에 찍을 수 있다.
+        // Class.forName("core.log.com.mysql.jdbc.Driver")
+        String url =  "jdbc:mysql://localhost:3306/command_type_board?useSSL=false";
+        String user = "root";
+        String password = "space0707";
+        Connection connection = DriverManager.getConnection(url,user,password);
+        return connection;
     }
 }
