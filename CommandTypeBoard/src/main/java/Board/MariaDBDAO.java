@@ -30,4 +30,12 @@ public class MariaDBDAO {
         Connection connection = DriverManager.getConnection(url,user,password);
         return connection;
     }
+
+    public void getBoard() {
+        try {
+            Connection conn = getConnection();
+        } catch(Exception e) {
+
+        }
+    }
 }
