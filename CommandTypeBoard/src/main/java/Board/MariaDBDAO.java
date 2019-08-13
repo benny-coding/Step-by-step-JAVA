@@ -1,6 +1,8 @@
 package Board;
 
 import java.sql.*;
+import java.util.List;
+import java.util.ArrayList;
 
 public class MariaDBDAO {
 
@@ -31,9 +33,21 @@ public class MariaDBDAO {
         return connection;
     }
 
-    public void getBoard() {
+    public void getList() {
+
+        PreparedStatement ppst = null;
+        ResultSet rs = null;
+        List list = null;
+
         try {
             Connection conn = getConnection();
+
+            ppst = conn.prepareStatement("SELECT * FROM command_type_board");
+            rs = ppst.executeQuery();
+
+            if(rs.next()){
+                list = new ArrayList<>();
+            }
         } catch(Exception e) {
 
         }
