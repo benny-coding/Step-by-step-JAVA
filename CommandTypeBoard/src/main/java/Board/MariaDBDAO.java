@@ -33,23 +33,48 @@ public class MariaDBDAO {
         return connection;
     }
 
-    public void getList() {
+    public List<BoardDTO> getList() {
 
         PreparedStatement ppst = null;
         ResultSet rs = null;
-        List list = null;
+        Connection conn = null;
+        List<BoardDTO> list = null;
 
         try {
-            Connection conn = getConnection();
+            conn = getConnection();
 
             ppst = conn.prepareStatement("SELECT * FROM command_type_board");
             rs = ppst.executeQuery();
 
-            if(rs.next()){
+            if (rs.next()) {
                 list = new ArrayList<>();
-            }
-        } catch(Exception e) {
 
+                do{
+                // 반복문이 수행될 때마다 BoardDTO 생성
+                BoardDTO data = new BoardDTO();
+
+                // 생성된 객체(data)에 수행된 쿼리 값(해당 컬럼)을 순서대로 저장
+                data.setBoardIndex(rs.getInt("boardIndex"));
+                data.setTitle(rs.getString("title"));
+                data.setContents(rs.getString("contents"));
+                data.setWriter(rs.getString("writer"));
+                data.setWriteTime(rs.getString("writeTime"));
+
+                list.add(data);
+            }
+            while (rs.next()) ;
         }
+       } catch(Exception e) {
+            e.printStackTrace();
+        } finally {
+            try  {
+                if(rs != null) rs.close();
+                if(ppst != null) ppst.close();
+                if(conn != null) conn.close();
+            } catch(Exception e2){
+                e2.getStackTrace();
+            }
+        }
+        return list;
     }
 }
