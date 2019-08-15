@@ -12,6 +12,7 @@ public class Board {
     static int maxBlockCount;
 
     static void loadBoardList(){
+        System.out.println();
         for(int i = 0; i < totalListCount;i++){
 
         }

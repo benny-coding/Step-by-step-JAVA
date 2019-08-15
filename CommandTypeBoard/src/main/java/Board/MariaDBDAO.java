@@ -14,7 +14,7 @@ public class MariaDBDAO {
     private MariaDBDAO(){}
 
     // # MairaDBDAO 인스턴스를 얻는 방법은 getInstance() 메서드를 호출하는 것 뿐이다.
-    public static MariaDBDAO MDAO(){
+    public static MariaDBDAO getInstance(){
         if(MrDAO == null){
             MrDAO = new MariaDBDAO();
 
@@ -43,7 +43,7 @@ public class MariaDBDAO {
         try {
             conn = getConnection();
 
-            ppst = conn.prepareStatement("SELECT * FROM command_type_board");
+            ppst = conn.prepareStatement("SELECT * FROM board_list");
             rs = ppst.executeQuery();
 
             if (rs.next()) {
@@ -54,11 +54,11 @@ public class MariaDBDAO {
                 BoardDTO data = new BoardDTO();
 
                 // 생성된 객체(data)에 수행된 쿼리 값(해당 컬럼)을 순서대로 저장
-                data.setBoardIndex(rs.getInt("boardIndex"));
+                data.setBoardIndex(rs.getInt("board_index"));
                 data.setTitle(rs.getString("title"));
-                data.setContents(rs.getString("contents"));
                 data.setWriter(rs.getString("writer"));
-                data.setWriteTime(rs.getString("writeTime"));
+                data.setWriteTime(rs.getString("write_time"));
+                data.setViewCount(rs.getString("view_count"));
 
                 list.add(data);
             }
@@ -77,4 +77,51 @@ public class MariaDBDAO {
         }
         return list;
     }
+
+    public List<BoardDTO> getBoardInfomation(String Index) {
+
+        PreparedStatement ppst = null;
+        ResultSet rs = null;
+        Connection conn = null;
+        List<BoardDTO> list = null;
+
+        try {
+
+            conn = getConnection();
+            ppst = conn.prepareStatement("SELECT * FROM board_list WHERE board_index = " + Index + "");
+            rs = ppst.executeQuery();
+
+            if (rs.next()) {
+                list = new ArrayList<>();
+
+                BoardDTO data = new BoardDTO();
+
+                // 생성된 객체(data)에 수행된 쿼리 값(해당 컬럼)을 순서대로 저장
+                data.setTitle(rs.getString("title"));
+                data.setContents(rs.getString("contents"));
+                data.setWriter(rs.getString("writer"));
+                data.setWriteTime(rs.getString("write_time"));
+                data.setViewCount(rs.getString("view_count"));
+
+                list.add(data);
+
+            }
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        } finally {
+            try  {
+                if(rs != null) rs.close();
+                if(ppst != null) ppst.close();
+                if(conn != null) conn.close();
+            } catch(Exception e2){
+                e2.getStackTrace();
+            }
+        }
+
+        return list;
+
+    }
+
+
 }
